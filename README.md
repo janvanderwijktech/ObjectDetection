@@ -24,7 +24,7 @@ Notes
 Ensure the IP camera URL is accessible and formatted correctly.
 Modify the section for bounding box drawing if additional customization is required for visualizing detections.
 For continuous monitoring, consider optimizing frame capture and processing to enhance performance.
-
+---
 Requirements:
 
 ```http://download.tensorflow.org/models/object_detection/tf2/20200711/efficientdet_d0_coco17_tpu-32.tar.gz```
